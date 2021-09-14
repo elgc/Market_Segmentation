@@ -17,6 +17,7 @@ The data consists of 594783 entries with three columns: Date of purchase, Client
 |  4	 |    0.89	|  3,495.45	 | 2,395.86 |      Medium Value      |
 |  5	 |    0.00	|  6,025.00	 | 5,734.55 |      High Value        |
 |  6	 |    0.00	| 12,412.33	 | 8,490.50 |      High value        |
+
 Note: Frequency in table is average value.
 Recency and Frequency are in days, Sales is in Dollars.
 
