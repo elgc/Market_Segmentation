@@ -19,6 +19,7 @@ The data consists of 594783 entries with three columns: Date of purchase, Client
 |  6	 |    0.00	| 12,412.33	 | 8,490.50 |      High value        |
 
 Note: Frequency in table is average value.
-Recency and Frequency are in days, Sales is in Dollars.
+Recency and Frequency are in days. 
+Sales in Dollars.
 
 **Cluster analysis** is a statistical method used to group similar objects into respective categories. It is also known as segmentation analysis, taxonomy analysis, or clustering. When these groups are clearly defined, a marketing team can target clusters of customers with cluster with tailored, targeted strategies.
