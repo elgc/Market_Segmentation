@@ -22,4 +22,4 @@ Note: Frequency in table is average value.
 Recency and Frequency are in days. 
 Sales in Dollars.
 
-**Cluster analysis** is a statistical method used to group similar objects into respective categories. It is also known as segmentation analysis, taxonomy analysis, or clustering. When these groups are clearly defined, a marketing team can target clusters of customers with cluster with tailored, targeted strategies.
+**Cluster analysis** is a statistical method used to group similar objects into respective categories. It is also known as segmentation analysis, taxonomy analysis, or clustering. When these groups are clearly defined, a marketing team can target clusters of customers with tailored, targeted strategies.
